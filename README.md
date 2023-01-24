@@ -1,1 +1,1 @@
-Cofrinho que guarda moedas e tambem converter moedas
+Cofrinho que guarda moedas e tambem converter moedas em real
